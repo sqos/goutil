@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/andeya/goutil/calendar"
+	"github.com/sqos/goutil/calendar"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"errors"
 	mrand "math/rand"
 
-	"github.com/andeya/goutil/internal/ameda"
+	"github.com/sqos/goutil/internal/ameda"
 )
 
 // NewRandom creates a new padded Encoding defined by the given alphabet string.

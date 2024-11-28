@@ -8,7 +8,7 @@ import (
 	"math/bits"
 	"sync"
 
-	"github.com/andeya/goutil"
+	"github.com/sqos/goutil"
 )
 
 // BitSet bit set

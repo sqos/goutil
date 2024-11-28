@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/andeya/goutil/coarsetime"
+	"github.com/sqos/goutil/coarsetime"
 )
 
 type (

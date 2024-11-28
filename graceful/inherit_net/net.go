@@ -16,7 +16,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/andeya/goutil/graceful"
+	"github.com/sqos/goutil/graceful"
 )
 
 // Listen announces on the local network address laddr. The network net must be

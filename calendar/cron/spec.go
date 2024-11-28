@@ -3,7 +3,7 @@ package cron
 import (
 	"time"
 
-	"github.com/andeya/goutil/calendar"
+	"github.com/sqos/goutil/calendar"
 )
 
 // SpecSchedule specifies a duty cycle (to the second granularity), based on a

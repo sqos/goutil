@@ -5,7 +5,7 @@ Go underlying type data.
 - import it
 
     ```go
-    "github.com/andeya/goutil/tpack"
+    "github.com/sqos/goutil/tpack"
     ```
 
 - doc
@@ -69,7 +69,7 @@ Go underlying type data.
 ```
 goos: darwin
 goarch: amd64
-pkg: github.com/andeya/goutil/tpack
+pkg: github.com/sqos/goutil/tpack
 BenchmarkUnpack_tpack-4   	2000000000	         0.79 ns/op	       0 B/op	       0 allocs/op
 BenchmarkTypeOf_go-4      	200000000	        10.3 ns/op	       0 B/op	       0 allocs/op
 ```

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/andeya/goutil"
+	"github.com/sqos/goutil"
 )
 
 // New returns an error that formats as the given text.

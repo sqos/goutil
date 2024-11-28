@@ -3,7 +3,7 @@ package cron
 import (
 	"time"
 
-	"github.com/andeya/goutil/calendar"
+	"github.com/sqos/goutil/calendar"
 )
 
 // ConstantDelaySchedule represents a simple recurring duty cycle, e.g. "Every 5 minutes".

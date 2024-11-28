@@ -4,4 +4,4 @@ Powerful toolbox for golang data types.
 
 Yeah!
 
-**It is recommended to use [gust](https://github.com/andeya/gust) instead!**
+**It is recommended to use [gust](https://github.com/sqos/gust) instead!**

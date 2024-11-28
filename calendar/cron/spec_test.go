@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andeya/goutil/calendar"
+	"github.com/sqos/goutil/calendar"
 )
 
 func TestConvert(t *testing.T) {

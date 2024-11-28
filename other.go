@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/andeya/goutil/internal/ameda"
+	"github.com/sqos/goutil/internal/ameda"
 )
 
 // AddrInt returns a pointer int representing the address of i.

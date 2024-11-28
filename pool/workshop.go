@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/andeya/goutil/coarsetime"
+	"github.com/sqos/goutil/coarsetime"
 )
 
 /**

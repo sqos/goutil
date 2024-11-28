@@ -9,7 +9,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/andeya/goutil"
+	"github.com/sqos/goutil"
 )
 
 const (
